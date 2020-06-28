@@ -97,7 +97,7 @@ address = {street = "", city = "Beijing", region = "Beijing", postcode = "", cou
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "39.952629", longitude = "116.235270"}
+coordinates = {latitude = "39.9526", longitude = "116.2352"}
 
 # Directions for visitors to locate you.
 directions = ""
